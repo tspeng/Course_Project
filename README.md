@@ -28,7 +28,7 @@ The application is developed using Python 3.7. The following packages are requir
 * plot_topic_hist()------- Plot the word distribution of each topic
 
 ### Data source
-The accident reports are download from [NTSB website](https://www.ntsb.gov/investigations/AccidentReports/Pages/AccidentReports.aspx). 47 accident reports (about 10 reports/topic) are selected to train the LDA and NMF topic models. Additional 2 reports for each topic are used to demonstrate the model predictive capability.
+The accident reports are download from [NTSB website](https://www.ntsb.gov/investigations/AccidentReports/Pages/AccidentReports.aspx). 52 accident reports (about 10 reports/topic) are selected to train the LDA and NMF topic models. Additional 2 reports for each topic are used to demonstrate the model predictive capability.
 
 ## Application implementation
 
