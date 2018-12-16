@@ -2,7 +2,7 @@
 # Accident Topic Modeling and Prediction
 ## Introduction
 
-In this project, a topic modeling and prediction application is developed to cluster accident reports published by National Transportation Safety Board (NTSB). Without reading those reports, Natural Language Processing (NLP) is able to extract informative features through some basic NLP tecnniques, such as tokenization, lemmatization, and topword/punctuation prunning. The extracted features are integrated to train machine learning algorithms to identify topics embeded in the accident reports. The trained topic model can be used to predict the topic of additional documents. 
+In this project, a topic modeling and prediction application is developed to cluster accident reports published by National Transportation Safety Board (NTSB). Without reading those reports, Natural Language Processing (NLP) is able to extract informative features through some basic NLP techniques, such as tokenization, lemmatization, and topword/punctuation prunning. The extracted features are integrated to train machine learning algorithms to identify topics embeded in the accident reports. The trained topic model can be used to predict the topic of additional documents. 
 
 ## Application development
 ### Environment setup
