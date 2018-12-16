@@ -341,12 +341,3 @@ if __name__ == "__main__":
     app.master.title("Accident Topic Clustering and Prediction")
     app.mainloop()
 
-#https://github.com/rdspring1/LSH_LDA/blob/master/lda.py
-#https://shuaiw.github.io/2016/12/22/topic-modeling-and-tsne-visualzation.html
-#https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730
-#https://matplotlib.org/api/_as_gen/matplotlib.axes.Axes.set_xticklabels.html
-#http://effbot.org/tkinterbook/tkinter-index.htm
-#https://docs.python.org/2/library/tkinter.html
-#https://nikkimarinsek.com/blog/7-ways-to-label-a-cluster-plot-python
-
-
